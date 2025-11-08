@@ -19,8 +19,8 @@ print(c)
 print('a: ', y)
 
 #Endereços de memoria:
-print(id(a))
-print(id(b))
+print(id(x))
+print(id(y))
 print(id(c))
 
 #Verificar se um item consta na lista
